@@ -1,0 +1,103 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="272" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="../../network_conn_check.c" useHWbreakpoint="false"/>
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="pulse_app" radix="16" sizeText="auto" addressText="0xEAFD8"/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="pulse_app" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="pulse_app" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="pulse_app" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="pulse_app"/>
+  <ProjectSessionItem path="pulse_app;pulse_app"/>
+  <ProjectSessionItem path="pulse_app;pulse_app;Application"/>
+  <ProjectSessionItem path="pulse_app;pulse_app;atwinc1500netif"/>
+  <ProjectSessionItem path="pulse_app;pulse_app;Board Definition"/>
+  <ProjectSessionItem path="pulse_app;pulse_app;Board Support"/>
+  <ProjectSessionItem path="pulse_app;pulse_app;lwip"/>
+  <ProjectSessionItem path="pulse_app;pulse_app;None"/>
+  <ProjectSessionItem path="pulse_app;pulse_app;nRF_BLE"/>
+  <ProjectSessionItem path="pulse_app;pulse_app;nRF_BLE_Services"/>
+  <ProjectSessionItem path="pulse_app;pulse_app;nRF_Log"/>
+  <ProjectSessionItem path="pulse_app;pulse_app;nRF_SoftDevice"/>
+  <ProjectSessionItem path="pulse_app;pulse_app;nRF_TLS"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="pulse_app" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="pulse_app" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="pulse_app" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="pulse_app" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never">
+   <Watchpoint expression="enc_netif" name="enc_netif" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="waiting_for_response" name="waiting_for_response" radix="16" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="mem->avail" name="mem->avail" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="(u32_t)mem->avail" name="(u32_t)mem->avail" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="API_link1" name="API_link1" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="connection_success" name="connection_success" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="netif_default" name="netif_default" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="txbuff" name="txbuff" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="revid" name="revid" radix="-1" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="count_led_on" name="count_led_on" radix="-1" linenumber="0" filename="../ses"/>
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1072" useTextEdit="1" useBinaryEdit="0" left="0" path="../../main_app.c" selected="1" top="1059" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="80" useTextEdit="1" useBinaryEdit="0" left="0" path="../../config/FreeRTOSConfig.h" selected="0" top="62" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="657" useTextEdit="1" useBinaryEdit="0" left="0" path="../../network.c" selected="0" top="639" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="532" useTextEdit="1" useBinaryEdit="0" left="0" path="../../socket_test.c" selected="0" top="519" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="268" useTextEdit="1" useBinaryEdit="0" left="0" path="../../ble.c" selected="0" top="255" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="676" useTextEdit="1" useBinaryEdit="0" left="0" path="../../temperature.c" selected="0" top="653" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="407" useTextEdit="1" useBinaryEdit="0" left="0" path="../../enc28j60driver/enc28j60.c" selected="0" top="369" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="42" useTextEdit="1" useBinaryEdit="0" left="0" path="../../ble_sensors.c" selected="0" top="13" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="13" useTextEdit="1" useBinaryEdit="0" left="0" path="../../enc28j60driver/mchdrv.c" selected="0" top="3" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="29" useTextEdit="1" useBinaryEdit="0" left="0" path="../../enc28j60driver/enc28j60-consts.h" selected="0" top="6" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="48" useTextEdit="1" useBinaryEdit="0" left="0" path="../../enc28j60driver/enc28j60.h" selected="0" top="33" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="76" useTextEdit="1" useBinaryEdit="0" left="0" path="../../enc28j60driver/enchw.c" selected="0" top="52" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="135" useTextEdit="1" useBinaryEdit="0" left="0" path="../../lwip/core/netif.c" selected="0" top="119" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="640" useTextEdit="1" useBinaryEdit="0" left="0" path="../../winc1500/driver/include/m2m_wifi.h" selected="0" top="606" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="422" useTextEdit="1" useBinaryEdit="0" left="0" path="../../winc1500/driver/source/m2m_wifi.c" selected="0" top="422" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="7276" useTextEdit="1" useBinaryEdit="0" left="0" path="../../config/app/sdk_config.h" selected="0" top="7258" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="77" useTextEdit="1" useBinaryEdit="0" left="0" path="../../onewire.c" selected="0" top="54" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="657" useTextEdit="1" useBinaryEdit="0" left="0" path="../../cmd.c" selected="0" top="644" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../lwip/include/lwip/opt.h" selected="0" top="134" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="29" useTextEdit="1" useBinaryEdit="0" left="0" path="../../lwip/include/lwipopts.h" selected="0" top="17" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="pulse_app" fileDialogDefaultFilter="*.asm;*.s;*.inc" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="C:/nRF5_SDK_15.0.0_a53641a/examples/ble_peripheral/nRF5_SDK_15.3.0_59ac345/modules/nrfx/mdk/ses_startup_nrf52840.s&#xa;&#xa;C:/nRF5_SDK_15.0.0_a53641a/examples/ble_peripheral/nRF5_SDK_15.3.0_59ac345/modules/nrfx/mdk/ses_startup_nrf_common.s&#xa;&#xa;C:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 4.30c/source/thumb_crt0.s&#xa;" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
